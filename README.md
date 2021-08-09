@@ -1,3 +1,6 @@
+# This project has been archived, please go to:
+https://github.com/atlassian/quickstart-atlassian-confluence
+
 # quickstart-atlassian-confluence
 ## Confluence Data Center on the AWS Cloud
 
